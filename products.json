@@ -1,0 +1,102 @@
+[
+  {
+    "category": "Food & Grocery",
+    "subcategory": "Snacks",
+    "name": "Groundnut Chikki",
+    "priceAED": 6.5,
+    "weight": "100 g",
+    "benefit": "High in plant protein & healthy fats for sustained energy",
+    "img": "groundnut-chikki.png",
+    "status": "in-stock"
+  },
+  {
+    "category": "Food & Grocery",
+    "subcategory": "Snacks",
+    "name": "Sesame Chikki – Black",
+    "priceAED": 5,
+    "weight": "50 g",
+    "benefit": "Rich in calcium & iron, supports bone strength",
+    "img": "sesame-groundnut-chikki.png",
+    "status": "in-stock"
+  },
+  {
+    "category": "Food & Grocery",
+    "subcategory": "Snacks",
+    "name": "Split Gram Chikki Balls",
+    "priceAED": 7,
+    "weight": "100 g",
+    "benefit": "Packed with protein & fiber; good for digestion",
+    "img": "splitgram-groundnut-chikki.png",
+    "status": "in-stock"
+  },
+  {
+    "category": "Food & Grocery",
+    "subcategory": "Snacks",
+    "name": "Nilavembu Groundnut Chikki",
+    "priceAED": 11,
+    "weight": "200 g",
+    "benefit": "Nilavembu boosts immunity & detoxifies naturally",
+    "img": "nilavembu-groundnut-chikki.png",
+    "status": "in-stock"
+  },
+  {
+    "category": "Food & Grocery",
+    "subcategory": "Snacks",
+    "name": "Moringa Groundnut Chikki",
+    "priceAED": 12,
+    "weight": "200 g",
+    "benefit": "Moringa adds antioxidants, vitamins & anti-inflammatory nutrients",
+    "img": "moringa-groundnut-chikki.png",
+    "status": "in-stock"
+  },
+  {
+    "category": "Food & Grocery",
+    "subcategory": "Grocery",
+    "name": "Grocery Coming Soon",
+    "priceAED": 0,
+    "weight": "",
+    "benefit": "",
+    "img": "grocery-coming.png",
+    "status": "coming-soon"
+  },
+  {
+    "category": "Return Gifts",
+    "subcategory": "",
+    "name": "Return Gifts Coming Soon",
+    "priceAED": 0,
+    "weight": "",
+    "benefit": "",
+    "img": "return-gifts-coming.png",
+    "status": "coming-soon"
+  },
+  {
+    "category": "Fashion",
+    "subcategory": "Kids Wear",
+    "name": "Kids Wear Coming Soon",
+    "priceAED": 0,
+    "weight": "",
+    "benefit": "",
+    "img": "kids-wear-coming.png",
+    "status": "coming-soon"
+  },
+  {
+    "category": "Fashion",
+    "subcategory": "Girls",
+    "name": "Tops",
+    "priceAED": 0,
+    "weight": "",
+    "benefit": "",
+    "img": "girls-tops-coming.png",
+    "status": "coming-soon"
+  },
+  {
+    "category": "Fashion",
+    "subcategory": "Girls",
+    "name": "Sarees",
+    "priceAED": 0,
+    "weight": "",
+    "benefit": "",
+    "img": "girls-sarees-coming.png",
+    "status": "coming-soon"
+  }
+]
